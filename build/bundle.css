@@ -1,0 +1,5 @@
+main.svelte-4uu1eg{margin:auto;width:fit-content;font-family:sans-serif}
+.board.svelte-14rnfbc{margin:1em 0;display:grid;grid-template-columns:repeat(var(--width), 1.5em);grid-template-rows:repeat(var(--height), 1.5em);background-color:var(--color);width:min-content;box-shadow:0 0 1em;border-radius:1em;padding:0.5em}
+.cell.svelte-1qvnyhz{background-color:#61B4CF;color:#333333;margin:0.5px;display:flex;text-align:center;justify-content:center;align-content:center;flex-direction:column;user-select:none}.hidden.svelte-1qvnyhz{background-color:#024E68;color:#DDDDDD}
+
+/*# sourceMappingURL=bundle.css.map */
