@@ -1,7 +1,9 @@
 # Minesweeper Game
 
 <div align="center">
-    <img src="./screenshot.png">
+    <a href="https://cuchi.github.io/svelte-minesweeper/" target="_blank">
+        <img src="./screenshot.png">
+    </a>
 </div>
 
 This was a quick experiment I made with [Svelte](https://svelte.dev), which
